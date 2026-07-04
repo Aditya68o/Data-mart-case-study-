@@ -1,1 +1,1 @@
-# Data-mart-case-study-
+# Data-mart-case-study
